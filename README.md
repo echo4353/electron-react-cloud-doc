@@ -10,3 +10,5 @@ Electron+React Hooks+七牛云+Node.js
 **项目架构图：**
 
 <img width="630" alt="image" src="https://user-images.githubusercontent.com/49382637/166404141-61545017-ad7c-462f-9544-f53db01e1c8e.png">
+**运行**
+npm run dev
